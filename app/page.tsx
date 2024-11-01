@@ -2,7 +2,6 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
 import { Mail, Phone, Instagram, Menu, X } from 'lucide-react'
 
 export default function Home() {
@@ -102,7 +101,7 @@ export default function Home() {
           key="background-video"
           suppressHydrationWarning
         >
-          <source src="/assets/homepage/home0.mp4" type="video/mp4" />
+          <source src="/assets/homepage/home.mp4" type="video/mp4" />
           Il tuo browser non supporta il tag video.
         </video>
 
