@@ -215,7 +215,7 @@ export default function Home() {
                 <h3 className="text-xl mb-2">Trasforma il tuo manoscritto in un bestseller</h3>
                 <p className="text-gray-700">
                   Siamo qui per aiutarti a realizzare il tuo sogno di diventare un autore pubblicato.
-                  Contattaci oggi stesso per iniziare il tuo viaggio nel mondo dell'editoria.
+                  Contattaci oggi stesso per iniziare il tuo viaggio nel mondo dell&apos;editoria.
                 </p>
               </div>
             </div>
@@ -235,7 +235,7 @@ export default function Home() {
               <h3 className="text-lg font-semibold mb-2">Contatti</h3>
               <p>Email: info@casaeditrice.it</p>
               <p>Telefono: +39 0123 456789</p>
-              <p>Indirizzo: Via dell'Editoria, 123 - Roma</p>
+              <p>Indirizzo: Via dell&apos;Editoria, 123 - Roma</p>
             </div>
             <div className="w-full md:w-1/3">
               <h3 className="text-lg font-semibold mb-2">Seguici</h3>
